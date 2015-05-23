@@ -6,6 +6,6 @@
 
 プルのテストを行います！
 
-# from Command 
+# from Command line
 
 プッシュのテストを行います。
